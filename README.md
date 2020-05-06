@@ -5,6 +5,8 @@ Fot the dataset, I've used my own voice samples - 60 Neutral audio files and 50 
 The audio recordings have to be converted into '.wav' format. Any free online converter can be used for that.
 I stored the neutral audio files in the path 'Audio_data/neutral' and angry audio files in 'Audio_data/angry', and files in 'Audio_data/test' are for testing our model with individual audio file.
 
+For an in-depth view, please see my python notebook file - 'Voice Classification.ipynb'
+
 ### Import libraries
 
 ```
